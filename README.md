@@ -1,4 +1,7 @@
 # EDA-Virtual_Internship-Quantium-Part2
+During my Virtual Internship at Quantium Company, I gained valuable skills in data analysis, hypothesis testing, and data visualization using the R programming language. I worked on various tasks that enhanced my ability to analyze complex datasets
+
+## What exactly I learned
 - Understand experimentation and uplift testing, comparing trial and control stores.
 - Learn control store selection based on defined metrics.
 - Gain experience in data visualization.
